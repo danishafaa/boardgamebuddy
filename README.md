@@ -8,7 +8,7 @@ Proyek ini adalah implementasi **Chapter 1 (Getting Started with Spring AI)** da
 | **NIM** | `12409011050103` |
 | **Mata kuliah** | ADSE |
 | **Dosen** | Rizal Broer (rizalbroer@uinjkt.ac.id) |
-| **Jawaban Pengerjaan** | `link` |
+| **Jawaban Pengerjaan** | `https://drive.google.com/drive/folders/1QjqasCvVZvgHovgRyro2pRfcwU7g9UG4?usp=drive_link` |
 
 ---
 
