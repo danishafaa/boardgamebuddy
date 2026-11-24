@@ -4,11 +4,11 @@ Proyek ini adalah implementasi **Chapter 1 (Getting Started with Spring AI)** da
 
 | | |
 |---|---|
-| **Nama** | `<ISI NAMA LENGKAP>` |
-| **NIM** | `<ISI NIM>` |
+| **Nama** | `Danish Shafa Aliya` |
+| **NIM** | `12409011050103` |
 | **Mata kuliah** | ADSE |
 | **Dosen** | Rizal Broer (rizalbroer@uinjkt.ac.id) |
-| **Video live demo** | `<ISI LINK VIDEO YOUTUBE / GOOGLE DRIVE>` |
+| **Jawaban Pengerjaan** | `link` |
 
 ---
 
